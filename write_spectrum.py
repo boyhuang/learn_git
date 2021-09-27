@@ -17,6 +17,9 @@ print('full in love')
 
 print('debug test')
 
+print('debug test2')
+
+
 def file2matrix(filename):
 
     fr = open(filename)
