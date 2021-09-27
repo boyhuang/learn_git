@@ -11,6 +11,8 @@ from matplotlib.pyplot import MultipleLocator
 
 print('hello world')
 
+print('hello world2')
+
 def file2matrix(filename):
     fr = open(filename)
     numberOfLines = len(fr.readlines())         #get the number of lines in the file
