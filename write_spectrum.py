@@ -19,6 +19,7 @@ print('debug test')
 
 print('debug test2')
 
+print('new feature1')
 
 def file2matrix(filename):
 
