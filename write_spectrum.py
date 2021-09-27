@@ -21,6 +21,8 @@ print('debug test2')
 
 print('new feature12')
 
+print('merge debug101')
+
 def file2matrix(filename):
 
     fr = open(filename)
